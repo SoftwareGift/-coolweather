@@ -23,7 +23,7 @@ public class City {
 		
 	}
 	
-	public String getCityCOde(){
+	public String getCityCode(){
 		return cityCode;
 	}
 	
